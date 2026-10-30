@@ -1,18 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=구서원&fontSize=70&fontAlignY=38&desc=NC%20다이노스를%20사랑하는%20개발자&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=구서원&fontSize=70&fontAlignY=38&desc=정보를%20다루던%20노하우로%20데이터%20기반%20솔루션을%20만드는%20DX인재&descAlignY=51&descAlign=51)
 
 ## 🙋‍♂️ About Me
 
 ```yaml
 name: 구서원
-age: 28
 education: 연세대학교 문헌정보학과
 current: KT AIVLE School 교육생
-location: Korea
-favorite_team: NC 다이노스 🦕
+favorite baseball team: NC 다이노스 🦕
 mbti: INTP
-motto: "데이터로 이야기하는 개발자"
+motto: "데이터로 이야기하는 DX인재"
 ```
 
 ### 💭 Who Am I?
@@ -50,15 +48,10 @@ motto: "데이터로 이야기하는 개발자"
 
 ## 🎯 Goals & Dreams
 
-### 🚀 SSAFY14 Goals (2025)
-- [ ] **Java 마스터하기** - SSAFY에서 탄탄한 기초 다지기
-- [ ] **팀 프로젝트 경험** - 다양한 사람들과 협업 스킬 쌓기
-- [ ] **알고리즘 실력 향상** - 문제 해결 능력 기르기
-
-### 🌟 Long-term Vision
-- [ ] **풀스택 개발자** - 프론트엔드와 백엔드 모두 능숙하게
-- [ ] **데이터 기반 서비스 개발** - 야구/게임 데이터를 활용한 실용적 서비스
-- [ ] **오픈소스 기여** - 커뮤니티에 도움이 되는 개발자
+### 🚀 AIVLE Goals
+- [ ] **적극적인 활동과 스터디 참여로 함께 성장할 동료 얻기!**
+- [ ] **코딩마스터스, 빅분기 합격, 공모전 수상으로 상금 30만 원 전부 받기!**
+- [ ] **완성도 높은 팀 프로젝트를 통한 확실한 취업 어필 포인트 만들기!**
 
 ---
 
