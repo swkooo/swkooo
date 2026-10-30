@@ -7,8 +7,8 @@
 ```yaml
 name: 구서원
 age: 28
-education: 문헌정보학과 (비전공자)
-current: SSAFY 교육생
+education: 연세대학교 문헌정보학과
+current: KT AIVLE School 교육생
 location: Korea
 favorite_team: NC 다이노스 🦕
 mbti: INTP
